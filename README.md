@@ -191,6 +191,4 @@ python3 clasificador_color_hex.py
 
 La temperatura es una **simplificación**: solo compara el canal rojo con el azul. Por eso algunos colores, como los verdes puros, quedan clasificados como **neutros**.
 
----
 
-**Autor:** Emilio [Apellido]
